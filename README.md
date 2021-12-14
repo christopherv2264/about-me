@@ -9,4 +9,5 @@ PD3 global history
 ### Schools i went to
 1. PS1 bergan school
 2. charles o dewey 
-3. TELECOM
+3. TELECOM  
+### My email
