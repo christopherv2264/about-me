@@ -1,2 +1,3 @@
 # about-me
- My name is Christopher 
+ My name is Christopher Vergara
+### Bio
